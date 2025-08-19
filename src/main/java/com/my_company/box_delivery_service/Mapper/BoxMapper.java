@@ -23,10 +23,6 @@ public class BoxMapper {
     public Box BoxDTORequestToBox(BoxDTORequest boxDTORequest){
         return Box.builder()
                 .txRef(boxDTORequest.getTxRef())
-//                .weightLimit(boxDTORequest.getWeightLimit())
-//                // .batteryCapacity(boxDTORequest.getBatteryCapacity())
-//                // .boxState(boxDTORequest.getState().name())
-//                .items(boxDTORequest.getItems())
                 .build();
     }
 

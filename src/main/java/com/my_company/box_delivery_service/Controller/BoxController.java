@@ -47,4 +47,3 @@ public class BoxController {
     }
 }
 
-git commit "added .gitignore file"

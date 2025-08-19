@@ -4,11 +4,12 @@ package com.my_company.box_delivery_service.DTORequest;
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-
+import lombok.NoArgsConstructor;
 
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class ItemDTORequest {
 
     @NotBlank(message = "this field can not be empty and it allows only (letters, " +

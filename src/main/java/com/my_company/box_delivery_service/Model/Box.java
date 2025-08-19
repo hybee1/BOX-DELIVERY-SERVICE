@@ -44,6 +44,7 @@ public class Box {
 
     @OneToMany(mappedBy = "box", cascade = CascadeType.ALL, orphanRemoval = true)
     @JsonManagedReference
+
     private List<Item> items = new ArrayList<>();
 
 }
