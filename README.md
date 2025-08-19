@@ -1,5 +1,5 @@
 
-Box DELIVERY SERVICE
+BOX DELIVERY SERVICE
 
 This project simulates a delivery service using 
 electronics/hardware-attached devices connected to boxes.
