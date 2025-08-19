@@ -1,11 +1,11 @@
 
-Box Delivery Service
+Box DELIVERY SERVICE
 
 This project simulates a delivery service using 
 electronics/hardware-attached devices connected to boxes.
-the enttire box is powered by a battery and their battery 
+Each box is powered by a battery and the battery 
 consumption is calculated based on a simple model. 
-No real hardware is connected. the box, the battery will be
+Note: No real hardware is connected. the box, the battery will be
 simulated.
 
 ASSUMPTIONS FOR BATTERY CONSUMPTION: 
